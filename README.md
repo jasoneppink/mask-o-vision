@@ -6,8 +6,20 @@ Mask-O-Vision is an experimental browser extension for watching movies in thw CO
 
 Learn more at [maskovision.com](https://maskovision.com)
 
-## Installation Instructions
-* Firefox
-  * Install at [Mozilla Add-Ons](https://addons.mozilla.org/en-US/firefox/addon/mask-o-vision/)
-* Chrome
-  * 
+# Installation Instructions
+## Firefox
+Install via [Mozilla Add-Ons](https://addons.mozilla.org/en-US/firefox/addon/mask-o-vision/)
+
+## Chrome
+Google is taking a while to accept Mask-O-Vision to the Chrome Web Store, so you'll have to install manually for now. Here's how!
+1. Download the extension here (beta 1)
+1. Unzip (uncompress) it
+1. Type “chrome://extensions” in your location bar and hit <enter>
+1. Click the switch next to “Developer mode” to turn it on
+1. Click “Load unpacked”
+1. Find and select the folder you just unzipped.
+1. Click the puzzle piece icon in the upper right corner, then click the thumb pin icon to pin the plugin next to the location bar.
+1. Click the mask icon to start using Mask-O-Vision!
+
+## A note to Mac users:
+If this is your first time sharing your screen with either of these browsers, an operating system dialogue will pop up asking you to give the browser permission to do so. Afterwards, you will have to restart the browser and go through these steps again. This is annoying for our purposes, but excellent security practice.
